@@ -1,5 +1,4 @@
 # PAGILA
-Pagila
 ======
 
 Pagila is a port of the Sakila example database available for MySQL, which was
